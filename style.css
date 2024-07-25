@@ -72,8 +72,6 @@ p {
 .brand h1 span {
 	color: crimson;
 }
-
-/* Header section */
 #header {
 	position: fixed;
 	z-index: 1000;
@@ -199,7 +197,7 @@ p {
 	top: 0;
 }
 #hero {
-	background-image: url(./img/hero-bg.png);
+	background-image: url(./background\ image.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
